@@ -23,7 +23,7 @@ ANONYMOUS U7P4L
  pip install futures
  pip install mechanize
  cd $HOME 
- git clone https://github.com/ANONYMOUS-U7P4L/GF.git
+ git clone https://github.com/U7P4L-IN/GF.git
 ```
 #### RUN SCRIPT
 ```python
