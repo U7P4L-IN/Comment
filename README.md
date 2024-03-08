@@ -35,7 +35,7 @@ And some other python packages
 ### Install Requirements (on Linux/Termux)
 
 ```python
->> pip insall pytube
+>> pip insall bs4
 ```
 ### INSTALLATION >
 ```python
@@ -43,16 +43,17 @@ apt update && apt upgrade -y
 pkg install git
 pkg install python
 pip install requests
+pip install bs4
 rm -rf Comment
 git clone --depth=1 https://github.com/U7P4L-IN/Comment.git
 cd Comment
 chmod +x *
-python YT.py
+python main.py
 ```
 
 <h5 align="center"><b>KALI LINUX > </b></h5>
 
-<p align="center"><img src="./image/demox.png">
+<p align="center"><img src="./image/demo3.png">
 
 <h5 align="center"><b>TERMUX > </b></h5>
 
