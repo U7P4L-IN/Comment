@@ -14,13 +14,21 @@
 > [!INFORMATION]
 > A Facebook post AUTO comment is an automated tool that interacts with users on Facebook posts. It can post content, reply to comments, and enhance engagement.
 
-#### Tested On :
+<br>
+<h4 align="left">About > </h4><br>
+
+* Unlimited Usage !
+* Support Newest Android also
+* Working Apis
+* Working with all Oparetors/Carriers
+<br>
+<h4 align="left">TESTED ON > </h4><br>
 
 * Kali Linux
-
-* Kali Nethunter
-
-* Termux ( Rooted/NonRooted Devices)
+* Termux
+* Mac os
+* Ubuntu
+* Perrot Sec OS
 
 ## Contributing
 Feel Free To Clone This Project. For Major Changes, Please Open An Issue First To Discuss What You Would Like To Change Or Add, Thank You!!.
@@ -50,16 +58,17 @@ cd Comment
 chmod +x *
 python main.py
 ```
+<p align="center"><img src="./image/carbon.png">
 
-<h5 align="center"><b>KALI LINUX > </b></h5>
-
-<p align="center"><img src="./image/demo3.png">
-
-<h5 align="center"><b>TERMUX > </b></h5>
-
-<p align="center"><img src="./image/demo2.jpg">
+<h3 align="center"><b>TERMUX > </b></h3>
 
 <p align="center"><img src="./image/demo1.jpg">
+<p align="center"><img src="./image/demo2.jpg">
+
+<h3 align="center"><b>KALI LINUX > </b></h3>
+
+<p align="center"><img src="./image/demo3.png">
+<p align="center"><img src="./image/demo4.png">
 
 <h2 align="center">LICENSE</h2>
 
@@ -71,6 +80,11 @@ FB AUTO COMMENT is released under the AGPL-3.0 license, which grants the followi
 - Private use
 
 For more convoluted language, see the [LICENSE](/LICENSE).
+</br>
+
+<p align="center">  <a href="https://t.me/TheU7p4lArmyX"><img width="300" height="100" src="https://i.imgur.com/N7AK7XY.png"></a></p>
+
+</br>
 
 # Report bugs
 If you notice issues while installing this tool or running this tool kindly mail to me at <a href="mailto: lisame0007@gmail.com">Gmail</a> or Open an issue via github.
